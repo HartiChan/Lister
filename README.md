@@ -1,2 +1,2 @@
 # Lister
-One of my old supid projects (first python project)
+One of my old stupid projects (first python project)
